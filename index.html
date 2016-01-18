@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        {% for post in site.posts %}
+        <div class="phame-post">
+            <h2 class="phame-post-title"><a href="{{ post.url | prepend: site.baseurl }}" rel="noreferrer">{{ post.title }}</a></h2>
+            <div class="phame-post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+            <div class="phame-post-body">
+                <p>{{ post.teaser }}</p>
+                <p><a href="{{ post.url | prepend: site.baseurl }}" rel="noreferrer">Continue Reading...</a></p>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>

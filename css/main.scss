@@ -1,0 +1,55 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+.seperated-list{
+    list-style: none;
+    padding: 0px;
+}
+
+.phame-post,
+.seperated-list li{
+    padding: 30px 0px;
+    border-bottom: 1px solid rgba(224,224,244,0.5);
+}
+
+.phame-post:last-of-type,
+.seperated-list li:last-child{
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.phame-post-title,
+.blog-article h1,
+.seperated-list li h1{
+    font-size: 2.2em;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+.phame-post-title, .phame-post-title a{
+    font-weight: 200;
+    color: #333;
+    text-decoration: none;
+}
+
+.phame-post-title a:hover{
+    text-decoration: none;
+}
+
+.phame-post-date,
+.blog-article .info-title,
+.seperated-list li .info-title{
+    color: #aaa;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    margin: 0 1px;
+    margin-bottom: 40px;
+    display: block;
+}
+
+.blog-article .phame-post{
+    padding: 0;
+}
+
