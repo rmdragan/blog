@@ -11,7 +11,7 @@ email: hello@learnium.net
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts about student life, the future of education and Learnium
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.learnium.com" # the base hostname & protocol for your site
+url: "http://blog.learnium.net" # the base hostname & protocol for your site
 twitter_username: learnium
 github_username:  learnium
 
