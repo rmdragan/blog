@@ -2,8 +2,7 @@
 layout: post
 title:  "Learnium Case Study -- Harris Federation"
 date:   2016-01-20 14:15:00 +0000
-teaser: "Learnium has provided an innovative means for the Harris Federation to support its students and further develop the Harris Experience Programme.” ---
-Dill Anstey, Vice President of Federation Sixth Form at Harris Federation
+teaser: "Learnium has provided an innovative means for the Harris Federation to support its students and further develop the Harris Experience Programme.” Dill Anstey, Vice President of Federation Sixth Form at Harris Federation
 ---
 *“Learnium has provided an innovative means for the Harris Federation to support its students and further develop the Harris Experience Programme.”* ---
 **Dill Anstey, Vice President of Federation Sixth Form at Harris Federation**
