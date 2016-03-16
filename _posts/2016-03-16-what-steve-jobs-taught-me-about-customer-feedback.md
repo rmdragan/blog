@@ -7,6 +7,7 @@ teaser: "People don't know what they want until you show it to them. - Steve Job
 title: What Steve Jobs Taught Me About Customer Feedback
 ---
 
+
 ![jobs_1_v3.png]({{site.baseurl}}/assets/jobs_1_v3.png)
 
 I came across this quote while reviewing the relationship [Learnium](https://www.learnium.com) has with its customers (disclaimer — I am the CEO of Learnium). I was particularly interested in uncovering the best principles for dealing with user feedback and Steve Job’s statement stuck out like a sore thumb. How could a man who built a company known for its excellent relationship with customers be so … against customers?
@@ -60,7 +61,7 @@ A master communicator, Jobs understood very well that every interaction with the
 ### See customer feedback as an opportunity
 ![Credit to Yiftee]({{site.baseurl}}/assets/keep_calm.png)
 
-It’s hard to picture customer feedback as an opportunity when dealing with long lists of feature requests and angry customers. And yet, this is how people show their attachment to your product. By large, users only invest time in products and services that address their needs or wants. From this perspective, customer feedback represents an opportunity to improve the product and gain advocates.
+It’s hard to picture customer feedback as an opportunity when dealing with long lists of feature requests and frustrated customers. And yet, this is how people show their attachment to your product. By large, users only invest time in products and services that address their needs or wants. From this perspective, customer feedback represents an opportunity to improve the product and gain advocates.
 
 ### Give users a way to contact you
 People tend to cover their ears to avoid criticism. For a company though, this is a flawed strategy. When you turn off the feedback you literally say no to improving. You need to give users ways to contact you.
@@ -81,7 +82,7 @@ Third, handle queries in a timely fashion. If you can quickly address an issue, 
 Finally, don’t forget to keep the customer up to date on progress. Communicate regularly as the ticket moves along the pipeline and provide estimates of completion date.
 
 ## Conclusion
-Jobs was a genius of its craft, an excellent communicator with an innate sense for uncovering the basic problems humans face.
+Jobs was a genius of his craft, an excellent communicator with an innate sense for uncovering the basic problems humans face.
 
 He taught me that value is created by solving hard challenges. Customer feedback can reveal the underlying problem and be used to create beautiful solutions. Confusing, incomplete and sometimes misleading, user input is difficult to handle properly. Effective communication skills are essential to cross this chasm and really understand the problem.
 
@@ -89,4 +90,4 @@ At Learnium we strive to provide a great customer experience by effectively hand
 
 _Credits for the images in this article go to [BadHTML](http://badhtml.com/web-designer-client-relation/) and [Yiftee](https://yiftee.com/show-customers-love/)._
 
-_Robert Dragan is the CEO of [Learnium](https://www.learnium.com), a social learning platform that connects you with other people at your university or college. To receive updates from the company please [subscribe to the Learnium newsletter](http://learnium.us13.list-manage2.com/subscribe?u=aca684cb66179037813763d8c&id=cbfc4dc3f)._
+_Robert Dragan is the CEO of [Learnium](https://www.learnium.com), a social learning platform that connects students and teachers at university or college. To receive updates from the company please [subscribe to the Learnium newsletter](http://learnium.us13.list-manage2.com/subscribe?u=aca684cb66179037813763d8c&id=cbfc4dc3f)._
