@@ -87,6 +87,6 @@ He taught me that value is created by solving hard challenges. Customer feedback
 
 At Learnium we strive to provide a great customer experience by effectively handling user feedback. We see user input as an invaluable source of knowledge and as an opportunity to better serve our customers.
 
-
+_Credits for the images in this article go to [BadHTML](http://badhtml.com/web-designer-client-relation/) and [Yiftee](https://yiftee.com/show-customers-love/)._
 
 _Robert Dragan is the CEO of [Learnium](https://www.learnium.com), a social learning platform that connects you with other people at your university or college. To receive updates from the company please [subscribe to the Learnium newsletter](http://learnium.us13.list-manage2.com/subscribe?u=aca684cb66179037813763d8c&id=cbfc4dc3f)._
