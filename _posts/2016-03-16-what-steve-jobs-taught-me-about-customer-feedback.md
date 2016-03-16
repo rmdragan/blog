@@ -1,6 +1,13 @@
 ---
 published: false
+layout: post
+author: Robert Dragan
+date: "2016-03-16 17:00:00 +0000"
+teaser: "People don't know what they want until you show it to them. - Steve Jobs"
+title: What Steve Jobs Taught Me About Customer Feedback
 ---
+
+![jobs_1_v3.png]({{site.baseurl}}/assets/jobs_1_v3.png)
 
 I came across this quote while reviewing the relationship [Learnium](https://www.learnium.com) has with its customers (disclaimer — I am the CEO of Learnium). I was particularly interested in uncovering the best principles for dealing with user feedback and Steve Job’s statement stuck out like a sore thumb. How could a man who built a company known for its excellent relationship with customers be so … against customers?
 
@@ -33,7 +40,7 @@ Personally, I think users should be involved in the process. It’s rare that th
 ### Be aware of the language barrier
 Customer feedback is not always straightforward. It can contain unfamiliar terminology, omit non-obvious aspects and even seem illogical. This happens all the time because of the nature of your business vs the nature of their business. It helps to have an ex-customer in your team who can act as a translator between you and the clients.
 
-!!!! image
+![Credit to BadHTML]({{site.baseurl}}/assets/programmers_vs_customers.png)
 
 Remember — the first step before you take any actions is to understand the customer problem. Summarising the message back is a little trick I like to use to uncover and clarify the underlying problem behind any user request:
 
@@ -51,7 +58,7 @@ Steve Jobs and Henry Ford realised that people are often anchored in a specific 
 A master communicator, Jobs understood very well that every interaction with the users is an opportunity to awe them. At Learnium we look at the way we deal with customer feedback as an integral part of the user experience. Here are a few of our guiding principles. They are easy to adopt and show customers that their opinions matter.
 
 ### See customer feedback as an opportunity
-!!! Image
+![Credit to Yiftee]({{site.baseurl}}/assets/keep_calm.png)
 
 It’s hard to picture customer feedback as an opportunity when dealing with long lists of feature requests and angry customers. And yet, this is how people show their attachment to your product. By large, users only invest time in products and services that address their needs or wants. From this perspective, customer feedback represents an opportunity to improve the product and gain advocates.
 
