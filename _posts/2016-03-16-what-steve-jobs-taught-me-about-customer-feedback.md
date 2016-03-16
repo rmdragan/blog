@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Robert Dragan
 date: "2016-03-16 17:00:00 +0000"
