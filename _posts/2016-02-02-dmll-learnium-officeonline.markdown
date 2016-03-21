@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Learnium and Office Online tested out at Coventry’s Disruptive Media Learning Lab"
-date:   2016-02-02 09:00:00 +0000
-teaser: Established in 2014 to drive innovation and positive change in teaching and learning at Coventry University, the Disruptive Media Learning Lab is testing out Learnium and Office Online. ![](http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-83-52-metablogapi/5444.dmll_5F00_learnium_5F00_06E6B2C2.jpg)
+date:   2016-03-21 12:00:00 +0000
+teaser: Established in 2014 to drive innovation and positive change in teaching and learning at Coventry University, the Disruptive Media Learning Lab is testing out Learnium and Office Online.
 ---
 
 ![](http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-83-52-metablogapi/5444.dmll_5F00_learnium_5F00_06E6B2C2.jpg)
